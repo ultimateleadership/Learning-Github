@@ -7,7 +7,12 @@ Hello World!!!!
 
 # English Corner
 
- ## Second level title
+
+## Second level title
+
+**Bold me**
+
+*I'm italic*
 
 
 A First Level Header
